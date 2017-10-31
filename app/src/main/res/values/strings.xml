@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="line_height">1sp</string>
+    <string name="appwidget_text">当前没有任何信息</string>
+    <string name="add_widget">当前没有任何信息</string>
+</resources>
